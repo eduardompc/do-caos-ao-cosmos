@@ -1,0 +1,9 @@
+função find_max(nums) {
+2let max_num = Numero .NEGATIVE_INFINITY; // menor que todos os outros números
+3for ( deixe número de números) {
+4if (num > max_num) {
+5num = max_num
+6}
+7}
+8return max_num;
+9 }
